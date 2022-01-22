@@ -1,0 +1,11 @@
+name: shinyapp
+title:
+username:
+account: ulosener
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5482167
+bundleId: 5492701
+url: https://ulosener.shinyapps.io/shinyapp/
+when: 1642764404.28626
+lastSyncTime: 1642764404.28626
