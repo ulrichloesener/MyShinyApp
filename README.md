@@ -1,5 +1,6 @@
 # MyShinyApp
-My first Shiny App created with R
+
+Find this App on the website https://ulosener.shinyapps.io/shinyapp/
 
 The R code for this App is in the file called app.R. 
 The necessary data "bmi" is available as a .csv or as a .rda file. 
